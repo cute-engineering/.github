@@ -15,21 +15,18 @@ welcoming, diverse, inclusive and healthy community.
 **In order to provide a healthy and inclusive discussion environment, we commit 
 to the following code of conduct:**
 
-- :sparkles: Demonstrate empathy and kindness to others :sparkles:
-- :sparkles: Respect different opinions, viewpoints and experiences :sparkles:
-- :sparkles: Giving and gracefully  accepting constructive feedback :sparkles:
-- :sparkles: Accepting responsibility and apologizing to those affected by 
-our mistakes :sparkles:
-- :sparkles: Focus on what is best not only for us as individuals, but for the community 
-as a whole :sparkles:
+- ✨ Demonstrate empathy and kindness to others ✨
+- ✨ Respect different opinions, viewpoints and experiences ✨
+- ✨ Giving and gracefully  accepting constructive feedback ✨
+- ✨ Accepting responsibility and apologizing to those affected by our mistakes ✨
+- ✨ Focus on what is best not only for us as individuals, but for the community as a whole ✨
 
 **Examples of unacceptable behavior include:**
 
-- :skull: The use of sexualized language or imagery, and sexual attention or 
-advances of any kind
-- :skull: Trolls, insulting or derogatory comments, and personal or political attacks
-- :skull: Public or private harassment
-- :skull: Publishing private information of others, such as a physical document 
+- 💀 The use of sexualized language or imagery, and sexual attention or advances of any kind
+- 💀 Trolls, insulting or derogatory comments, and personal or political attacks
+- 💀 Public or private harassment
+- 💀 Publishing private information of others, such as a physical document 
 or email address, without their explicit permission
 
 **COMMUNITY LEADERS ARE RESPONSIBLE FOR CLARIFYING AND ENFORCING OUR STANDARDS 
