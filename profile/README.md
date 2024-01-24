@@ -4,7 +4,8 @@ Cute Engineering is a group of hackers who design minimalist software.
 
 ## Tools
 
- - 🪄 [Cutekit](https://github.com/cute-engineering/cutekit) - A tooling framework for building, testing, and deploying software.
+ - 🪄 [CuteKit](https://github.com/cute-engineering/cutekit) - A tooling framework for building, testing, and deploying software.
+ - 👻 [BooBoot](https://github.com/cute-engineering/cutekit) - The mischievous bootloader
  - 🇴 [Cutekit Odoo](https://github.com/cute-engineering/cutekit) - Manage Odoo with the magic of Cutekit
  - 💬 [Chatty](https://github.com/cute-engineering/chatty) - Talkative interface definition language.
 
@@ -15,7 +16,7 @@ Cute Engineering is a group of hackers who design minimalist software.
  - 🔤 [ce-fonts](https://github.com/cute-engineering/ce-fonts) - A collection of high quality bitmap fonts
  - 🥞 [ce-heap](https://github.com/cute-engineering/ce-heap) - Cute Engineering Heap Library
  - 🧮 [ce-libm](https://github.com/cute-engineering/ce-libm) - The ISO C standard math library, ISO/IEC 9899
- - 📃 [ce-stdc](https://github.com/cute-engineering/ce-stdcpp) - The ISO C standard library, ISO/IEC 9899
+ - 📃 [ce-libc](https://github.com/cute-engineering/ce-libc) - The ISO C standard library, ISO/IEC 9899
  - 📃 [ce-stdcpp](https://github.com/cute-engineering/ce-stdcpp) - The ISO C++ standard library, ISO/IEC 14882
 
 ## Meta
