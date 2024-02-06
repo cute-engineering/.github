@@ -5,8 +5,8 @@ Cute Engineering is a group of hackers who design minimalist software.
 ## Tools
 
  - 🪄 [CuteKit](https://github.com/cute-engineering/cutekit) - A tooling framework for building, testing, and deploying software.
- - 👻 [BooBoot](https://github.com/cute-engineering/cutekit) - The mischievous bootloader
- - 🇴 [Cutekit Odoo](https://github.com/cute-engineering/cutekit) - Manage Odoo with the magic of Cutekit
+ - 👻 [BooBoot](https://github.com/cute-engineering/booboot) - The mischievous bootloader
+ - 🇴 [Cutekit Odoo](https://github.com/cute-engineering/cutekit-odoo) - Manage Odoo with the magic of Cutekit
  - 💬 [Chatty](https://github.com/cute-engineering/chatty) - Talkative interface definition language.
 
 ## Libraries
