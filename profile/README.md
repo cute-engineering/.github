@@ -16,6 +16,7 @@ Cute Engineering is a group of hackers who design minimalist software.
  - 🥞 [ce-heap](https://github.com/cute-engineering/ce-heap) - Cute Engineering Heap Library
  - 🧮 [ce-libm](https://github.com/cute-engineering/ce-libm) - The ISO C standard math library, ISO/IEC 9899
  - 📃 [ce-libc](https://github.com/cute-engineering/ce-libc) - The ISO C standard library, ISO/IEC 9899
+ - 🚆 [ce-runtime](https://github.com/cute-engineering/ce-runtime) - Freestanding, integer-only, easy-to-integrate subset of LLVM's compiler-rt libgcc-compatibility functions.
  - 📃 [ce-stdcpp](https://github.com/cute-engineering/ce-stdcpp) - The ISO C++ standard library, ISO/IEC 14882
 
 ## Meta
